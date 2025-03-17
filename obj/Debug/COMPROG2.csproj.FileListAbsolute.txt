@@ -1,0 +1,7 @@
+C:\Users\Franc\source\repos\COMPROG2\bin\Debug\COMPROG2.exe.config
+C:\Users\Franc\source\repos\COMPROG2\bin\Debug\COMPROG2.exe
+C:\Users\Franc\source\repos\COMPROG2\bin\Debug\COMPROG2.pdb
+C:\Users\Franc\source\repos\COMPROG2\obj\Debug\COMPROG2.csproj.AssemblyReference.cache
+C:\Users\Franc\source\repos\COMPROG2\obj\Debug\COMPROG2.csproj.CoreCompileInputs.cache
+C:\Users\Franc\source\repos\COMPROG2\obj\Debug\COMPROG2.exe
+C:\Users\Franc\source\repos\COMPROG2\obj\Debug\COMPROG2.pdb
